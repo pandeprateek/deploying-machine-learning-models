@@ -4,6 +4,7 @@
 from pathlib import Path
 
 from setuptools import find_packages, setup
+i = 2
 
 # Package meta-data.
 NAME = 'tid-regression-model'
